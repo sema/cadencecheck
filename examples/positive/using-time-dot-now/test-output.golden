@@ -1,0 +1,5 @@
+CHECK github.com/sema/cadencecheck/examples/positive/using-time-dot-now.workflowImpl
+[ERROR-NON-DETERMINISTIC-CALL] detected call to time.Now
+	#  1 ..snip../src/github.com/sema/cadencecheck/examples/positive/using-time-dot-now/main.go:10:17 (github.com/sema/cadencecheck/examples/positive/using-time-dot-now.workflowImpl) -->
+	#  2 ..snip../src/time/time.go:1087:6 (time.Now)
+Found 1 issues

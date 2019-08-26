@@ -1,0 +1,2 @@
+CHECK github.com/sema/cadencecheck/examples/negative/entrypoint/register-with-options.workflowImpl
+OK - No issues found

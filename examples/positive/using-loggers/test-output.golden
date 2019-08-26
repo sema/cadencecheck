@@ -1,0 +1,5 @@
+CHECK github.com/sema/cadencecheck/examples/positive/using-loggers.workflowImpl
+[ERROR-NON-DETERMINISTIC-CALL] detected call to (*github.com/sema/cadencecheck/vendor/go.uber.org/zap.Logger).Info
+	#  1 ..snip../src/github.com/sema/cadencecheck/examples/positive/using-loggers/main.go:10:13 (github.com/sema/cadencecheck/examples/positive/using-loggers.workflowImpl) -->
+	#  2 ..snip../src/github.com/sema/cadencecheck/vendor/go.uber.org/zap/logger.go:185:20 ((*github.com/sema/cadencecheck/vendor/go.uber.org/zap.Logger).Info)
+Found 1 issues

@@ -1,0 +1,2 @@
+CHECK github.com/sema/cadencecheck/examples/negative/entrypoint/base.workflowImpl
+OK - No issues found

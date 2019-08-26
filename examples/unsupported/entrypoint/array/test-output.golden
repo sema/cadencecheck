@@ -1,0 +1,2 @@
+WARNING Unable to infer Cadence workflow function registered at callsite ..snip../src/github.com/sema/cadencecheck/examples/unsupported/entrypoint/array/main.go:16:20: breaking circle
+OK - No issues found

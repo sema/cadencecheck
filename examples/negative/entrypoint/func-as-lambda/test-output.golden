@@ -1,0 +1,2 @@
+CHECK github.com/sema/cadencecheck/examples/negative/entrypoint/func-as-lambda.main$1
+OK - No issues found

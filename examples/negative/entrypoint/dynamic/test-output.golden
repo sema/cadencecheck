@@ -1,0 +1,3 @@
+CHECK github.com/sema/cadencecheck/examples/negative/entrypoint/dynamic.workflowImpl1
+CHECK github.com/sema/cadencecheck/examples/negative/entrypoint/dynamic.workflowImpl2
+OK - No issues found

@@ -1,0 +1,2 @@
+CHECK (github.com/sema/cadencecheck/examples/negative/entrypoint/fx-func-as-bound.Executor).runWorkflow$bound
+OK - No issues found
