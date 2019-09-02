@@ -1,11 +1,5 @@
 # cadencecheck
 
-// Usage Analysis
-// - Implement dict SSA analysis
+Experimental analysis of Cadence (https://github.com/uber/cadence) workflows using the Go client. The analysis checks for unsafe usage of non-deterministic libraries and code constructs within workflows.
 
-// Harden
-// - Make utility function to print (and grep) all called methods
-// - Run against monorepo to harden lists 
-
-Weak points
-- Entrypoint analysis is not complete - requires DFA... implement DFA, just enough, or add annotation support?
+This is very much work in progress, and makes no claims of being complete, sound, or useful in any way.
